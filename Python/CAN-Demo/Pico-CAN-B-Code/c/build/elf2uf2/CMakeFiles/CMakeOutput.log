@@ -1,0 +1,137 @@
+The system is: Windows - 10.0.19044 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.34.31933/bin/Hostx86/x86/cl.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+用于 x86 的 Microsoft (R) C/C++ 优化编译器 19.34.31937 版
+版权所有(C) Microsoft Corporation。保留所有权利。
+
+CMakeCCompilerId.c
+Microsoft (R) Incremental Linker Version 14.34.31937.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:CMakeCCompilerId.exe 
+CMakeCCompilerId.obj 
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "D:/wangkg/mydata/SDK/c/build/elf2uf2/CMakeFiles/3.25.1/CompilerIdC/CMakeCCompilerId.exe"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler: C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.34.31933/bin/Hostx86/x86/cl.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+用于 x86 的 Microsoft (R) C/C++ 优化编译器 19.34.31937 版
+版权所有(C) Microsoft Corporation。保留所有权利。
+
+CMakeCXXCompilerId.cpp
+Microsoft (R) Incremental Linker Version 14.34.31937.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:CMakeCXXCompilerId.exe 
+CMakeCXXCompilerId.obj 
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.exe"
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.obj"
+
+The CXX compiler identification is MSVC, found in "D:/wangkg/mydata/SDK/c/build/elf2uf2/CMakeFiles/3.25.1/CompilerIdCXX/CMakeCXXCompilerId.exe"
+
+Detecting C compiler ABI info compiled with the following output:
+Change Dir: D:/wangkg/mydata/SDK/c/build/elf2uf2/CMakeFiles/CMakeScratch/TryCompile-l5wwry
+
+Run Build Command(s):nmake -f Makefile /nologo cmTC_d8b5e\fast && 	"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\bin\HostX86\x86\nmake.exe"  -f CMakeFiles\cmTC_d8b5e.dir\build.make /nologo -L                  CMakeFiles\cmTC_d8b5e.dir\build
+Building C object CMakeFiles/cmTC_d8b5e.dir/CMakeCCompilerABI.c.obj
+	"C:\Program Files\CMake\bin\cmake.exe" -E cmake_cl_compile_depends --dep-file=CMakeFiles\cmTC_d8b5e.dir\CMakeCCompilerABI.c.obj.d --working-dir=D:\wangkg\mydata\SDK\c\build\elf2uf2\CMakeFiles\CMakeScratch\TryCompile-l5wwry --filter-prefix="注意: 包含文件:  " -- C:\PROGRA~1\MICROS~1\2022\COMMUN~1\VC\Tools\MSVC\1434~1.319\bin\Hostx86\x86\cl.exe @C:\Users\will\AppData\Local\Temp\nm67A.tmp
+CMakeCCompilerABI.c
+?鈷? 鍖呭惈鏂囦欢:  C:\Program Files\CMake\share\cmake-3.25\Modules\CMakeCompilerABI.h
+Linking C executable cmTC_d8b5e.exe
+	"C:\Program Files\CMake\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_d8b5e.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100220~1.0\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100220~1.0\x86\mt.exe --manifests -- C:\PROGRA~1\MICROS~1\2022\COMMUN~1\VC\Tools\MSVC\1434~1.319\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\cmTC_d8b5e.dir\objects1 @C:\Users\will\AppData\Local\Temp\nm850.tmp
+
+
+
+The system is: Windows - 10.0.19044 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.34.31933/bin/Hostx86/x86/cl.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+用于 x86 的 Microsoft (R) C/C++ 优化编译器 19.34.31937 版
+版权所有(C) Microsoft Corporation。保留所有权利。
+
+CMakeCCompilerId.c
+Microsoft (R) Incremental Linker Version 14.34.31937.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:CMakeCCompilerId.exe 
+CMakeCCompilerId.obj 
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "D:/wangkg/mydata/SDK/c/build/elf2uf2/CMakeFiles/3.25.1/CompilerIdC/CMakeCCompilerId.exe"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler: C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.34.31933/bin/Hostx86/x86/cl.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+用于 x86 的 Microsoft (R) C/C++ 优化编译器 19.34.31937 版
+版权所有(C) Microsoft Corporation。保留所有权利。
+
+CMakeCXXCompilerId.cpp
+Microsoft (R) Incremental Linker Version 14.34.31937.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:CMakeCXXCompilerId.exe 
+CMakeCXXCompilerId.obj 
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.exe"
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.obj"
+
+The CXX compiler identification is MSVC, found in "D:/wangkg/mydata/SDK/c/build/elf2uf2/CMakeFiles/3.25.1/CompilerIdCXX/CMakeCXXCompilerId.exe"
+
+Detecting C compiler ABI info compiled with the following output:
+Change Dir: D:/wangkg/mydata/SDK/c/build/elf2uf2/CMakeFiles/CMakeScratch/TryCompile-35481t
+
+Run Build Command(s):nmake -f Makefile /nologo cmTC_b0ea4\fast && 	"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\bin\HostX86\x86\nmake.exe"  -f CMakeFiles\cmTC_b0ea4.dir\build.make /nologo -L                  CMakeFiles\cmTC_b0ea4.dir\build
+Building C object CMakeFiles/cmTC_b0ea4.dir/CMakeCCompilerABI.c.obj
+	"C:\Program Files\CMake\bin\cmake.exe" -E cmake_cl_compile_depends --dep-file=CMakeFiles\cmTC_b0ea4.dir\CMakeCCompilerABI.c.obj.d --working-dir=D:\wangkg\mydata\SDK\c\build\elf2uf2\CMakeFiles\CMakeScratch\TryCompile-35481t --filter-prefix="注意: 包含文件:  " -- C:\PROGRA~1\MICROS~1\2022\COMMUN~1\VC\Tools\MSVC\1434~1.319\bin\Hostx86\x86\cl.exe @C:\Users\will\AppData\Local\Temp\nm287F.tmp
+CMakeCCompilerABI.c
+?鈷? 鍖呭惈鏂囦欢:  C:\Program Files\CMake\share\cmake-3.25\Modules\CMakeCompilerABI.h
+Linking C executable cmTC_b0ea4.exe
+	"C:\Program Files\CMake\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_b0ea4.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100220~1.0\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100220~1.0\x86\mt.exe --manifests -- C:\PROGRA~1\MICROS~1\2022\COMMUN~1\VC\Tools\MSVC\1434~1.319\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\cmTC_b0ea4.dir\objects1 @C:\Users\will\AppData\Local\Temp\nm292C.tmp
+
+
+
+Detecting CXX compiler ABI info compiled with the following output:
+Change Dir: D:/wangkg/mydata/SDK/c/build/elf2uf2/CMakeFiles/CMakeScratch/TryCompile-od9znc
+
+Run Build Command(s):nmake -f Makefile /nologo cmTC_067ba\fast && 	"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\bin\HostX86\x86\nmake.exe"  -f CMakeFiles\cmTC_067ba.dir\build.make /nologo -L                  CMakeFiles\cmTC_067ba.dir\build
+Building CXX object CMakeFiles/cmTC_067ba.dir/CMakeCXXCompilerABI.cpp.obj
+	"C:\Program Files\CMake\bin\cmake.exe" -E cmake_cl_compile_depends --dep-file=CMakeFiles\cmTC_067ba.dir\CMakeCXXCompilerABI.cpp.obj.d --working-dir=D:\wangkg\mydata\SDK\c\build\elf2uf2\CMakeFiles\CMakeScratch\TryCompile-od9znc --filter-prefix="注意: 包含文件:  " -- C:\PROGRA~1\MICROS~1\2022\COMMUN~1\VC\Tools\MSVC\1434~1.319\bin\Hostx86\x86\cl.exe @C:\Users\will\AppData\Local\Temp\nm2BEA.tmp
+CMakeCXXCompilerABI.cpp
+?鈷? 鍖呭惈鏂囦欢:  C:\Program Files\CMake\share\cmake-3.25\Modules\CMakeCompilerABI.h
+Linking CXX executable cmTC_067ba.exe
+	"C:\Program Files\CMake\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_067ba.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100220~1.0\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100220~1.0\x86\mt.exe --manifests -- C:\PROGRA~1\MICROS~1\2022\COMMUN~1\VC\Tools\MSVC\1434~1.319\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\cmTC_067ba.dir\objects1 @C:\Users\will\AppData\Local\Temp\nm2CD6.tmp
+
+
+

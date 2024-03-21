@@ -1,0 +1,2 @@
+C:\PROGRA~2\GNUARM~1\102021~1.10\bin\ARM-NO~2.EXE qc libFonts.a CMakeFiles/Fonts.dir/font12.c.obj CMakeFiles/Fonts.dir/font12CN.c.obj CMakeFiles/Fonts.dir/font16.c.obj CMakeFiles/Fonts.dir/font20.c.obj CMakeFiles/Fonts.dir/font24.c.obj CMakeFiles/Fonts.dir/font24CN.c.obj CMakeFiles/Fonts.dir/font8.c.obj
+C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR17F9~1.EXE libFonts.a

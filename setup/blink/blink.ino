@@ -1,8 +1,0 @@
-(defun on (bri)
-  (dotimes (a 2)
-    (with-i2c (str (+ a #x70))
-      (write-byte #x21 str)
-      (restart-i2c str) 
-      (write-byte (+ bri #xe0) str)
-      (restart-i2c str)
-      (write-byte #x81 str))))
